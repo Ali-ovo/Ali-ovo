@@ -15,7 +15,7 @@
 
   
 
-- ✏ **Learning** :  
+- 📫 **Reach me** :  
 
   - **QQ &** **WeChat**: 1521454923
   - **E-mail** : ali_ovo@qq.com
