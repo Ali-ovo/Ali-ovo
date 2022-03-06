@@ -3,7 +3,7 @@
 > A Front end developer from **ShangHai, China**.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ali-Libra&show_icons=true&theme=graywhite" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ali-ovo&show_icons=true&theme=graywhite" />
 </a>
 
 - ✏ **Learning** :  
@@ -20,4 +20,4 @@
   - **QQ &** **WeChat**: 1521454923
   - **E-mail** : ali_ovo@qq.com
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ali-Libra&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ali-ovo&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
