@@ -17,7 +17,7 @@
 
 - 📫 **Reach me** :  
 
-  - **WeChat**: 1521454923
+  - **QQ &** **WeChat**: 1521454923
   - **E-mail** : ali_ovo@qq.com
 
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ali-ovo&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
