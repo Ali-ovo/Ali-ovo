@@ -1,4 +1,4 @@
-### Hey! This is `ZhuoYang Wu / 阿离` 😋
+### Hey! I am `阿离(ZhuoYang Wu)` 😋
 
 > A Front end developer from **ShangHai, China**.
 
