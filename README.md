@@ -2,7 +2,8 @@
 
 ### 👋 Hey！ I am `阿离(ZhuoYang Wu)` 
 
-> A Front end developer from **ShangHai, China**.
+> A Front end developer from **ShangHai, China**. <br/>
+> Used to be a pro professional gamer.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ali-ovo&show_icons=true&theme=buefy&hide_border=true" alt="" /> 
