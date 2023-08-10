@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="./assets/Frame 1svgtest3333.svg" /></p>
+<p align="center"><img width="100%" src="./assets/figam-design-header.svg" /></p>
 
 ### 👋 Hey！ I am `阿离(ZhuoYang Wu)` 
 
