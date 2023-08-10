@@ -1,3 +1,5 @@
+<p align="center"><img width="100%" src="./assets/figame-design-header.svg" /></p>
+
 ### 👋 Hey！ I am `阿离(ZhuoYang Wu)` 
 
 > A Front end developer from **ShangHai, China**.
